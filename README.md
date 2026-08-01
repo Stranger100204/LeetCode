@@ -11,6 +11,7 @@ A collection of solved LeetCode questions!
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Stranger100204/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -34,4 +35,20 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Stranger100204/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
