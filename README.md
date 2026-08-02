@@ -12,6 +12,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Stranger100204/LeetCode/tree/master/0877-stone-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Stranger100204/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -39,10 +40,12 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Stranger100204/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Stranger100204/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +54,5 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Stranger100204/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Stranger100204/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
